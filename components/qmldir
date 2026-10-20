@@ -1,0 +1,5 @@
+singleton ShellState 1.0 ShellState.qml
+IconButton 1.0 IconButton.qml
+Txt 1.0 Txt.qml
+HSlider 1.0 HSlider.qml
+GlassSheen 1.0 GlassSheen.qml

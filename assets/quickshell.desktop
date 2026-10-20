@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Ryoku XFCE Shell (Quickshell)
+Comment=Quickshell bar + control center + launcher for XFCE on X11
+Exec=qs -c ryoku-xfce
+Icon=preferences-system
+Terminal=false
+X-GNOME-Autostart-enabled=true
+X-GNOME-Autostart-Delay=2
+X-XFCE-Autostart-Override=true
